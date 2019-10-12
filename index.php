@@ -116,5 +116,5 @@ return $return;
 $whats = new Whatsapp;
 
 echo '<pre>';
-print_r($whats->filterChat('teste2.txt'));
+print_r($whats->filterChat('MEU_ARQUIVO.txt'));
 echo '</pre>';
